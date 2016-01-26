@@ -7,3 +7,6 @@ Maintainer: Ben Jones <Jonesb@appstate.edu>
 Description: Sample functions to roll n-sided dice and perform basic operations.
 License: GPL-2
 LazyData: TRUE
+Suggests: knitr,
+    rmarkdown
+VignetteBuilder: knitr
